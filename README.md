@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prahladkumar11" alt="prahladkumar11" /></a> </p>
 
-- 🔭 I’m currently working on **Dynamic Blog Website**
+- 🔭 I’m currently working on **Job Portal Web Application**
 
 - 🌱 I’m currently learning **Django**
 
